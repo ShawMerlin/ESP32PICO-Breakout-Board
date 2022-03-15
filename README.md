@@ -1,7 +1,8 @@
 # ESP32PICO-Breakout-Board
 
 Here I have a simple breakout board for the new ESP32-PICO Chip.
-All the parts I have inlucded with JLCPCB Numbers so their assemble service can be used as well.
+All the parts I have included with JLCPCB Numbers so their assemble service can be used as well.
+* Still getting some values on a few decoupling capacitors *
 
 Breakout boards for this are $30+ on sites so I wanted a cost effective option for testing this chip.
 Feel free to take the Kicad files and change them however you see fit.  Enjoy!!
