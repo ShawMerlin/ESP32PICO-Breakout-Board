@@ -9,4 +9,5 @@ Feel free to take the Kicad files and change them however you see fit.  Enjoy!!
 We want to update our ShawLED Controller board with this little chip, very exciting times!!
 www.shawtechlighting.com
 
+3D Model of a Quarter was put in the picture to give an idea of how tiny this little guy is.  :)
 ![image](https://user-images.githubusercontent.com/70423454/158304233-d4df24ca-f2b8-41bd-b487-33ba96b00e62.png)
