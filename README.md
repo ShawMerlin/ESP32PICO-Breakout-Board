@@ -5,7 +5,7 @@ All the parts I have included with JLCPCB Numbers so their assembly service can 
 
 *Still getting some values on a few decoupling capacitors*
 
-Breakout boards for this are $30+ on sites so I wanted a cost effective option for testing this chip.
+Pre-made Breakout boards for this are $30+ on sites so I wanted a cost effective option for testing this chip.
 Feel free to take the Kicad files and change them however you see fit.  Enjoy!!
 
 We want to update our ShawLED Controller board with this little chip, very exciting times!!
